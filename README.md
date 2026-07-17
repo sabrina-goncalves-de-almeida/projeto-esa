@@ -4,7 +4,7 @@
 
 O protótipo da aplicação foi desenvolvido no **Figma** para atender aos requisitos da disciplina e representar as funcionalidades planejadas para o sistema.
 
-🔗 **Protótipo:** [Acessar protótipo](https://www.figma.com/proto/Uoze0QihuAAh9a7jpxD9k1/BNCC-Connect?node-id=1-3&t=HVPF6KolfNhJHQkT-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3)
+🔗 **Protótipo:** [Acessar protótipo](https://www.figma.com/proto/Uoze0QihuAAh9a7jpxD9k1/BNCC-Connect?node-id=199-1409&t=iGjlQB1xXHf5Lnhd-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=199%3A1409&show-proto-sidebar=1)
 
 ## Descrição
 
